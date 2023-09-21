@@ -1,7 +1,10 @@
-git clone
-mkdir
-touch
-nano
-git add
-git commit -m ""
+git clone https://github.com/Jonahznl/Computational-Social-Science-Projects.git
+mkdir "Project 1"
+touch new.txt
+touch commands.txt
+nano new.txt
+nano commands.txt
+git add -A
+git commit -m "project 1 with txt file"
+git commit -m "add commands used"
 git push
